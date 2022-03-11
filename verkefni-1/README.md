@@ -31,7 +31,11 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 ### Eiusmod tempor et fugiat
 
 ```mermaid
-
+pie
+    title Tölur úr töflunni hér að ofan
+        "Miðja" : 12
+        "Vinstri" : 34
+        "Hægri" : 56
 ```
 
 ### Dolore ut velit
@@ -64,4 +68,4 @@ Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
 ![Slóð á mynd:](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg)
 
-Video id: HUBNt18RFbo
+[!Video id: HUBNt18RFbo
