@@ -39,19 +39,18 @@ pie
 ```
 
 ### Dolore ut velit
-
-
-void setup() {
+```Js
+ void setup() {
     Serial.begin(9600);
-    Serial.println("Halló");
+    Serial.println("Halló"); 
 }
-
+```
 ## Commodo occaecat
 
 1. Incididunt
 2. laborum
-mollit
-cupidatat
+    1. mollit
+    2. cupidatat
 3. laboris
 4. anim
 
@@ -68,4 +67,4 @@ Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
 ![Slóð á mynd:](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg)
 
-[!Video id: HUBNt18RFbo
+[![](https://img.youtube.com/vi/HUBNt18RFbo/0.jpg)](https://www.youtube.com/watch?v=HUBNt18RFbo)
