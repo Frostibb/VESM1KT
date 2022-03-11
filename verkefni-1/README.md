@@ -43,21 +43,21 @@ void setup() {
 
 ## Commodo occaecat
 
-Incididunt
-laborum
+1. Incididunt
+2. laborum
 mollit
 cupidatat
-laboris
-anim
+3. laboris
+4. anim
 
 Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
-deserunt
-sit
-aliqua
-eiusmod
-irure
-aliquip
+* deserunt
+  - sit
+  - aliqua
+    - eiusmod
+  - irure
+* aliquip
 
 ## Occaecat amet labore
 
