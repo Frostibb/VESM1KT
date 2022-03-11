@@ -11,7 +11,7 @@ Occaecat amet labore
 
 ## Eu excepteur id pariatur velit
 
-Et sit incididunt ex ad quis. Tempor dolor velit laborum qui. Consequat occaecat anim ut deserunt laboris ea amet et.
+> Et sit incididunt ex ad quis. Tempor dolor velit laborum qui. Consequat occaecat anim ut deserunt laboris ea amet et.
 
 ## Ex est eiusmod quis in tempor
 
@@ -61,6 +61,6 @@ aliquip
 
 ## Occaecat amet labore
 
-Slóð á mynd: https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg
+![Slóð á mynd:](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg)
 
 Video id: HUBNt18RFbo
